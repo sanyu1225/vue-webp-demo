@@ -1,4 +1,4 @@
-# kuyao
+# vue-webp-demo
 
 ## Project setup
 ```
@@ -22,4 +22,4 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# kuyao
+# vue-webp-demo
